@@ -1,0 +1,12 @@
+1) Intigerate the app with Firebase. (Follow instructions on website)
+2) Enable email authentication.
+3) In real time database set read write rules to null.
+4) Run app.
+
+NOTE : 
+-If index out of boud error in parseNews method. 
+-Please verify the api link in browser/postman and change the date parameter accordingly.
+
+-Admin Role email : admin@test.com Password : 123456
+
+THANK YOU
